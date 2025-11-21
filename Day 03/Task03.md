@@ -1,4 +1,4 @@
-# ✅ AIDD Task02 Solution
+# ✅ AIDD Task03 Solution
 
 ## Part A - Research (Short Questions/Answers)
 
@@ -22,5 +22,6 @@ Gemini 3.0 can understand text, images, audio, and video together with better ac
 
 
 ## Part B - Practical Task
+
 
 ![Gemini 3.0 Playground](model.png)
