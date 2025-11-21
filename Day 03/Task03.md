@@ -15,9 +15,9 @@ Gemini 3.0 can understand text, images, audio, and video together with better ac
 
 ### 4. Name any two developer tools introduced with Gemini 3.0.
 
-1. Google Antigravity (agent-first development platform)
+1. **Google Antigravity:** (agent-first development platform)
 
-2. Gemini CLI / API for integrating the model into workflows via Google AI Studio.
+2. **Gemini CLI / API:** for integrating the model into workflows via Google AI Studio.
 
 
 
@@ -25,3 +25,4 @@ Gemini 3.0 can understand text, images, audio, and video together with better ac
 
 
 ![Gemini 3.0 Playground](model.png)
+
