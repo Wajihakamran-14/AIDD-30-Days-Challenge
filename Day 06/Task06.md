@@ -8,7 +8,7 @@ https://github.com/settings/personal-access-tokens/new
 - ✔ repo (Read & Write)    
 - Copy the token and save it safely.
 
-![Token](/Screenshots/token-generate.png)
+![Token](Screenshots/token-generate.png)
 
 ### 🔹 Step 2 - Store Token Securely
 
@@ -34,6 +34,7 @@ Run /mcp list command to verify connection to GitHub MCP server.
 “List my GitHub repositories”        
 
 ![test-mcp](/Screenshots/process.png)
+
 
 
 ![repos](/Screenshots/Repo-list.png)
