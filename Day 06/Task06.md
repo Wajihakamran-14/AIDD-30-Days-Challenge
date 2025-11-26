@@ -14,27 +14,28 @@ https://github.com/settings/personal-access-tokens/new
 
 store token in .env file inside .gemini folder as below
 
-![Env](/Screenshots/env.png)
+![Env](Screenshots/env.png)
 
 ### 🔹 Step 3 - Configure Gemini to Use GitHub MCP Server
 
-![settings.json](/Screenshots/Json-file.png)
+![settings.json](Screenshots/Json-file.png)
 
 ### 🔹 Step 4 - Restart Gemini CLI
 
-![gemini restart](/Screenshots/MCP-Connected.png)
+![gemini restart](Screenshots/MCP-Connected.png)
 
 ### 🔹 Step 5 - Verify Connection
 Run /mcp list command to verify connection to GitHub MCP server.
 
-![mcp-list](/Screenshots/mcp-list.png)
+![mcp-list](Screenshots/mcp-list.png)
 
 ### 🔹 Step 6 - Test the Server
 **Ask:**   
 “List my GitHub repositories”        
 
-![test-mcp](/Screenshots/process.png)
+![test-mcp](Screenshots/process.png)
 
 
 
-![repos](/Screenshots/Repo-list.png)
+![repos](Screenshots/Repo-list.png)
+
